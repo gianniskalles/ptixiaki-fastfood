@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/chefHome"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="Αρχική" />
+
+
+    <item
+        android:id="@+id/PendingOrders"
+        android:icon="@drawable/ic_neworder"
+        android:title="Παραγγελίες σε εξέλιξη" />
+
+
+    <item
+        android:id="@+id/Orders"
+        android:icon="@drawable/ic_content_paste_black_24dp"
+        android:title="Παραγγελίες" />
+
+
+    <item
+        android:id="@+id/chefProfile"
+        android:icon="@drawable/ic_dish_spoon_knife"
+        android:title="Ανέβασε πίατο" />
+
+
+</menu>

@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">Fast Food</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string-array name="State">
+        <item>Ήπειρος</item>
+        <item>Στερεά Ελλάδα</item>
+    </string-array>
+
+    <string-array name="shipper">
+        <item>Shipper 1</item>
+        <item>Shipper 2</item>
+    </string-array>
+
+    <string-array name="DishName">
+        <item>Μερίδα γύρος χοιρινός</item>
+        <item>Μερίδα λουκάνικο χωριάτικο</item>
+        <item>Μερίδα σουβλάκι κοτόπουλο</item>
+        <item>Μερίδα σουβλακι χοιρινό</item>
+        <item>Μερίδα Πανσέτα</item>
+        <item>Μερίδα μπιφτέκι</item>
+        <item>Μερίδα κοτομπέικον</item>
+        <item>Μερίδα κοτόπουλο σχάρας</item>
+        <item>Μερίδα κεμπάπ</item>
+        <item>Μπριζόλα χοιρινή (τεμ)</item>
+        <item>Μπριζόλα μοσχαρίσια (τεμ)</item>
+        <item>Ποικιλία μικρή</item>
+        <item>Ποικιλία μεσαία</item>
+        <item>Ποικιλία μεγάλη</item>
+        <item>Πίτσα Μαργαρίτα</item>
+        <item>ΠίτσαΖαμπόν</item>
+        <item>Πίτσα Παιδική</item>
+        <item>Πίτσα Καρμπονάρα</item>
+        <item>Πίτσα 4 εποχές</item>
+        <item>Πίτσα 4 τυριά</item>
+        <item>Πίτσα Λαχανικών</item>
+        <item>Πίτσα Χωριάτικη</item>
+        <item>Πίτσα Πικάντικη</item>
+        <item>Πίτσα Σπέσιαλ</item>
+        <item>Πίτσα Μεξικάνα</item>
+        <item>Πίτσα Νηστίσιμη</item>
+        <item>Πίτσα BBQ</item>
+        <item>Πίτσα Γαλοπούλα</item>
+        <item>Πίτσα Κοτόπουλο</item>
+        <item>Πίτσα Κιμά</item>
+        <item>Πίτσα Τόνο</item>
+        <item>Σπαγγέτι Νάπολι</item>
+        <item>Σπαγγέτη Μπολονέζ</item>
+        <item>Σπαγγέτη Καρμπονάρα</item>
+        <item>Σπαγγέτη Ματριτσιάνα</item>
+        <item>Σπαγγέτη Σπέσιαλ</item>
+        <item>Σπαγγέτη 4 τυριά</item>
+        <item>Σπαγγέτη Κοτόπουλο</item>
+        <item>Σπαγγέτη BBQ</item>
+        <item>Σπαγγέτη Λαχανικών</item>
+    </string-array>
+</resources>
